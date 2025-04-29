@@ -66,7 +66,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "STMA32BASE::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-STMA32BASE-Debug-94fb78ce275bcebcc405.json",
+					"jsonFile" : "target-STMA32BASE-Debug-8c29f7c4a05a64e4f3b6.json",
 					"name" : "STMA32BASE",
 					"projectIndex" : 0
 				}
@@ -76,8 +76,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE/build/Debug",
-		"source" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE"
+		"build" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE/build/Debug",
+		"source" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE"
 	},
 	"version" : 
 	{

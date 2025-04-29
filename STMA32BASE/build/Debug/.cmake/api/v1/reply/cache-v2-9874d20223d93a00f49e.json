@@ -179,7 +179,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Aluno/Documents/LAB02/STMA32BASE/build/Debug"
+			"value" : "c:/Users/Aluno/Documents/LAB03/STMA32BASE/build/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -619,7 +619,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE/build/Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE/build/Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE"
+			"value" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1155,11 +1155,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "The CMake toolchain file"
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE/cmake/gcc-arm-none-eabi.cmake"
+			"type" : "FILEPATH",
+			"value" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE/build/Debug"
+			"value" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE/build/Debug"
 		},
 		{
 			"name" : "STMA32BASE_IS_TOP_LEVEL",
@@ -1211,7 +1211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE"
+			"value" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE"
 		},
 		{
 			"name" : "stm32cubemx_BINARY_DIR",
@@ -1223,7 +1223,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE/build/Debug/cmake/stm32cubemx"
+			"value" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE/build/Debug/cmake/stm32cubemx"
 		},
 		{
 			"name" : "stm32cubemx_IS_TOP_LEVEL",
@@ -1247,7 +1247,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Aluno/Documents/LAB02/STMA32BASE/cmake/stm32cubemx"
+			"value" : "C:/Users/Aluno/Documents/LAB03/STMA32BASE/cmake/stm32cubemx"
 		}
 	],
 	"kind" : "cache",

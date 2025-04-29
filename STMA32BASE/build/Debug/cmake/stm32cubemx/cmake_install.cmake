@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Aluno/Documents/LAB02/STMA32BASE/cmake/stm32cubemx
+# Install script for directory: C:/Users/Aluno/Documents/LAB03/STMA32BASE/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
